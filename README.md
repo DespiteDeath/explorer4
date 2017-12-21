@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/DespiteDeath/explorer4.svg?branch=master)](https://travis-ci.org/DespiteDeath/explorer4)
+
 ## Задание IV этапа:
 
 Добавить обработку регулярных выражение формата BRE в наименование путей с использованием библиотеки Boost.Regex. Пути с регулярными выражениями передаются после ключа `--regex (-r)`.
